@@ -4,7 +4,7 @@ I am a current software engineer at Vanguard and graduate of the Computer & Info
 
 I have advanced programming skills in Python, Java, C/C++, Assembly, SQL, HTML, and GIT/GITHUB
 
-Before my current program  I graduated with a Bachelors in Philosophy from the University of Pennsylvania and worked as an administrative assistant in the departments of Critical Writing and Biology. Because of this I have strong Logical, Administrative, and Writing skills. 
+Before my current program  I graduated with a Bachelors in Philosophy from the University of Pennsylvania and worked as an administrative assistant in the departments of Critical Writing and Biology. Because of this I have strong logical, administrative, and writing skills. 
 
 
 
