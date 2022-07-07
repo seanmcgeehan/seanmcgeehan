@@ -10,7 +10,7 @@ Before my current program  I graduated with a Bachelors in Philosophy from the U
 
 You can reach me at seanmcge@sas.upenn.edu
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/seanmcgeehan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanmcgeehan&layout=compact)](https://github.com/seanmcgeehan/github-readme-stats)
 
 <!--
 **seanmcgeehan/seanmcgeehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
