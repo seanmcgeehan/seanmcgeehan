@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I am a current software engineer at Vanguard and graduate of the Computer & Information Technology  Master's Program at the University of Pennsylvania School of Engineering and Applied Sciences. From my program I've taken relevant course work in Software Engineering, Computer Systems, Artificial Intelligence, Big Data Analytics, Discrete Math and Algorithms. 
+I am a current a incoming software engineer at Amazon Web Services and graduate of the Computer & Information Technology  Master's Program at the University of Pennsylvania School of Engineering and Applied Sciences. From my program I've taken relevant course work in Software Engineering, Computer Systems, Artificial Intelligence, Big Data Analytics, Discrete Math and Algorithms. 
 
 I have advanced programming skills in Python, Java, C/C++, Assembly, SQL, HTML, and GIT/GITHUB
 
